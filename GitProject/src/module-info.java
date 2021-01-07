@@ -1,0 +1,3 @@
+module GitProject {
+	requires junit;
+}
